@@ -1,10 +1,11 @@
 
 # Hi, I'm Elker 👋
 ### [✨] So cool
-### [🦦] A otta
+### [🦦] A otter
 ### [🕸️] An [website](https://elker54.com) that could work, maybe not
 ### [📨] You could [email](https://elker.cc/email) me?
 ### [🔌] [Discord?](https://elker.cc/discord)
+### [🔗] Checkout me links
 
 
 ### [📊] Stats
